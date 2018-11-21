@@ -17,5 +17,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return($('ul img:first-child'));
+  return($('ul li:first-child'));
 }
